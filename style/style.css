@@ -1,0 +1,6 @@
+/* font */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@100;500;700;800&display=swap');
